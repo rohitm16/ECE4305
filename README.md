@@ -1,4 +1,4 @@
-#ECE 4305 Digital ASIC Design Personal Study Notes
+ECE 4305 Digital ASIC Design Personal Study Notes
 
 Source & Credit
 
